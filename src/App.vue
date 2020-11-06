@@ -3,6 +3,7 @@
         <h3>Hello World</h3>
         <p>I play you a song</p>
         <p>I am best at jezz and flee-bop</p>
+        <p>plz enjoy</p>
         <img src="./assets/frog.jpg" alt="frog" />
     </div>
 </template>
